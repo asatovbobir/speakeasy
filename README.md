@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎙️ FlowSpeak
+# 🎙️ SpeakEasy
 
 **Voice-controlled teleprompter for the browser — private, free, and ready in one click.**
 
@@ -22,7 +22,7 @@ Whether you're a content creator, a remote worker doing standups, or a student p
 
 ## 🚀 What It Does
 
-FlowSpeak is a **browser-based teleprompter** that sits below your camera and scrolls your script as you speak — **pausing automatically when you stop talking.** No downloads. No accounts. No cloud. Just open and go.
+SpeakEasy is a **browser-based teleprompter** that sits below your camera and scrolls your script as you speak — **pausing automatically when you stop talking.** No downloads. No accounts. No cloud. Just open and go.
 
 | Feature                       | Description                                                              |
 | ----------------------------- | ------------------------------------------------------------------------ |
@@ -129,7 +129,7 @@ FlowSpeak/
 
 ## 🧩 Challenges
 
-- **Time** — We built FlowSpeak in **one day** at HackerHers 2026. That meant ruthless scope cuts and shipping only what mattered for the core experience.
+- **Time** — We built SpeakEasy in **one day** at HackerHers 2026. That meant ruthless scope cuts and shipping only what mattered for the core experience.
 - **Layout** — Getting the text strip to sit correctly under the camera in fullscreen (including notched Mac displays) took careful CSS and keeping the strip compact but readable.
 
 ---
@@ -154,6 +154,6 @@ FlowSpeak/
 
 <div align="center">
 
-**FlowSpeak** — _Speak naturally. Never lose your place._
+**SpeakEasy** — _Speak naturally. Never lose your place._
 
 </div>
