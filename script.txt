@@ -1,0 +1,8 @@
+Good morning everyone. My name is [Your Name], and today I want to talk about something we all deal with: the pressure to look confident on camera.
+Whether you're recording a YouTube video, presenting to your team, or pitching to investors, the moment that camera turns on, most of us freeze. We lose our place. We break eye contact. We look unprepared, even when we're not.
+That's exactly why we built FlowSpeak.
+FlowSpeak is a free, browser-based teleprompter that scrolls your script as you speak and pauses the moment you stop. No app to download. No subscription. No cloud. Just open it in Chrome, paste or upload your script, and go.
+The text sits right below your camera, so your eyes stay natural and on-lens. Your audience sees confidence. They see presence. They have no idea you have a script right in front of you.
+We built this in a single day at HackHers 2026, because the gap was obvious and the solution should be simple.
+FlowSpeak. Speak naturally. Stay on camera.
+Thank you.
